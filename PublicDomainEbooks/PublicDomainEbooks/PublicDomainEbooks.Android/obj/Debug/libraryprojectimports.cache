@@ -2,16 +2,19 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks.Android\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

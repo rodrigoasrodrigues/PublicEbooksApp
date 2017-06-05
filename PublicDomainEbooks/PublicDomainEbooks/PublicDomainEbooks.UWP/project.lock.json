@@ -25440,16 +25440,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\PublicDomainEbooks.UWP.csproj",
+      "projectUniqueName": "E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\PublicDomainEbooks.UWP.csproj",
       "projectName": "PublicDomainEbooks.UWP",
-      "projectPath": "E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\PublicDomainEbooks.UWP.csproj",
-      "projectJsonPath": "E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\project.json",
+      "projectPath": "E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\PublicDomainEbooks.UWP.csproj",
+      "projectJsonPath": "E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.csproj": {
-              "projectPath": "E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.csproj"
+            "E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.csproj": {
+              "projectPath": "E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.csproj"
             }
           }
         }

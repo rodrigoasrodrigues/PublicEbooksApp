@@ -12,7 +12,10 @@ using Android.Widget;
 using Microsoft.WindowsAzure.MobileServices;
 using PublicDomainEbooks.Helpers;
 using Xamarin.Forms;
+using PublicDomainEbooks.Authentication;
+using PublicDomainEbooks.Droid.Authentication;
 
+[assembly: Xamarin.Forms.Dependency(typeof(SocialAuthentication))]
 namespace PublicDomainEbooks.Droid.Authentication
 {
     public class SocialAuthentication : IAuthentication
@@ -35,6 +38,6 @@ namespace PublicDomainEbooks.Droid.Authentication
                 throw;
             }
         }
-        
+
     }
 }

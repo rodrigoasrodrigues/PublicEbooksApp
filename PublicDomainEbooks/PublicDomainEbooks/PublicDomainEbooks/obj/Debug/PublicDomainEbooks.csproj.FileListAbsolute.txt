@@ -29,8 +29,9 @@ E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDo
 E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\System.Net.Http.Extensions.xml
 E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\System.Net.Http.Primitives.xml
 E:\GitHub\Pessoal\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.csproj.App.config
-E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\PublicDomainEbooks.dll.config
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\PublicDomainEbooks.dll
+E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\PublicDomainEbooks.dll.config
+E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\PublicDomainEbooks.pdb
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\Newtonsoft.Json.dll
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\Plugin.Settings.Abstractions.dll
@@ -54,9 +55,8 @@ E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.csproj.App.config
-E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.csprojResolveAssemblyReference.cache
-E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.MainPage.xaml.g.cs
+E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.View.MainPage.xaml.g.cs
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.App.xaml.g.cs
+E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.View.LoginPage.xaml.g.cs
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.dll
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.pdb
-E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\bin\Debug\PublicDomainEbooks.pdb

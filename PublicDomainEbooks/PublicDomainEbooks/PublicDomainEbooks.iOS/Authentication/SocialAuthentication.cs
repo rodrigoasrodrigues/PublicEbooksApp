@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using Microsoft.WindowsAzure.MobileServices;
-using PublicDomainEbooks.Helpers;
+using PublicDomainEbooks.Authentication;
+using PublicDomainEbooks.iOS.Authentication;
 
+[assembly: Xamarin.Forms.Dependency(typeof(SocialAuthentication))]
 namespace PublicDomainEbooks.iOS.Authentication
 {
     public class SocialAuthentication : IAuthentication

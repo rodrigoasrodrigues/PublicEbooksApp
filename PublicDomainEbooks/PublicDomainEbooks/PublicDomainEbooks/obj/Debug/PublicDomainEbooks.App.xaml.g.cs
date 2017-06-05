@@ -11,8 +11,8 @@
 namespace PublicDomainEbooks {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\GitHub\\Pessoal\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDom" +
-        "ainEbooks\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\PDE\\PublicEbooksApp\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks\\A" +
+        "pp.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

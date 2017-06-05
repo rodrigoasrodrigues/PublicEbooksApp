@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PublicDomainEbooks.View;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,9 @@ namespace PublicDomainEbooks
         {
             InitializeComponent();
 
-            MainPage = new PublicDomainEbooks.MainPage();
+            //MainPage = new MainPage();
+
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()

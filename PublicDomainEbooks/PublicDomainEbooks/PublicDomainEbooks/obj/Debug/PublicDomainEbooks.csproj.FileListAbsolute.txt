@@ -60,3 +60,4 @@ E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.View.LoginPage.xaml.g.cs
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.dll
 E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.pdb
+E:\PDE\PublicEbooksApp\PublicDomainEbooks\PublicDomainEbooks\PublicDomainEbooks\obj\Debug\PublicDomainEbooks.csprojResolveAssemblyReference.cache

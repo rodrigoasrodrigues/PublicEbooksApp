@@ -32,7 +32,7 @@ namespace PublicDomainEbooks.ViewModel
 
             var viewModelTypeName = viewModelType.Name;
             var viewModelWordLength = "ViewModel".Length;
-            var viewTypeName = $"SocialLoginMaratona.{viewModelTypeName.Substring(0, viewModelTypeName.Length - viewModelWordLength)}Page";
+            var viewTypeName = $"PublicDomainEbooks.View.{viewModelTypeName.Substring(0, viewModelTypeName.Length - viewModelWordLength)}Page";
             var viewType = Type.GetType(viewTypeName);
 
             var page = Activator.CreateInstance(viewType) as Page;

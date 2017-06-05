@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PublicDomainEbooks",
+    "\\PublicDomainEbooks\\PublicDomainEbooks",
+    "\\PublicDomainEbooks\\PublicDomainEbooks\\PublicDomainEbooks.Android"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
